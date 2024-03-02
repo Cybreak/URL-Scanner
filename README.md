@@ -2,7 +2,7 @@
 Grabs HTML Code of URL and finds all URLs connected to it, does it recursivly based on the amount you set
 
 ## How To Use
-1, Launch `Scanner.exe` or `Scanner.py`
+1, Run `Build.bat`
 
 2, Enter the URL you wish to scan
 
